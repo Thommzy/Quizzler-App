@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c75b5144-93fd-4def-8ff9-36c4c753f64e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/.last_build_id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +25,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1l0ZCuG4OjRyIs846OQZGZiuwae" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +39,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -55,26 +63,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1004" height="217" key="GridCell.Tab.0.bottom" timestamp="1606777659116">
+    <state width="502" height="217" key="GridCell.Tab.0.bottom" timestamp="1606828031322">
       <screen x="0" y="25" width="1440" height="843" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606737300945" />
-    <state width="1004" height="217" key="GridCell.Tab.0.bottom/0.25.1440.843@0.25.1440.843" timestamp="1606777659116" />
-    <state width="1004" height="217" key="GridCell.Tab.0.center" timestamp="1606777659115">
+    <state width="502" height="217" key="GridCell.Tab.0.bottom/0.25.1440.843@0.25.1440.843" timestamp="1606828031322" />
+    <state width="502" height="217" key="GridCell.Tab.0.center" timestamp="1606828031322">
       <screen x="0" y="25" width="1440" height="843" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606737300943" />
-    <state width="1004" height="217" key="GridCell.Tab.0.center/0.25.1440.843@0.25.1440.843" timestamp="1606777659115" />
-    <state width="1004" height="217" key="GridCell.Tab.0.left" timestamp="1606777659115">
+    <state width="502" height="217" key="GridCell.Tab.0.center/0.25.1440.843@0.25.1440.843" timestamp="1606828031322" />
+    <state width="502" height="217" key="GridCell.Tab.0.left" timestamp="1606828031321">
       <screen x="0" y="25" width="1440" height="843" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606737300942" />
-    <state width="1004" height="217" key="GridCell.Tab.0.left/0.25.1440.843@0.25.1440.843" timestamp="1606777659115" />
-    <state width="1004" height="217" key="GridCell.Tab.0.right" timestamp="1606777659116">
+    <state width="502" height="217" key="GridCell.Tab.0.left/0.25.1440.843@0.25.1440.843" timestamp="1606828031321" />
+    <state width="502" height="217" key="GridCell.Tab.0.right" timestamp="1606828031322">
       <screen x="0" y="25" width="1440" height="843" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606737300944" />
-    <state width="1004" height="217" key="GridCell.Tab.0.right/0.25.1440.843@0.25.1440.843" timestamp="1606777659116" />
+    <state width="502" height="217" key="GridCell.Tab.0.right/0.25.1440.843@0.25.1440.843" timestamp="1606828031322" />
     <state x="0" y="28" width="1440" height="872" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606738180045">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
